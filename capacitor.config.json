@@ -1,0 +1,10 @@
+{
+  "appId": "com.campus.planner",
+  "appName": "Campus Planner",
+  "webDir": "www",
+  "backgroundColor": "#FBEEE9",
+  "android": { "backgroundColor": "#FBEEE9" },
+  "plugins": {
+    "LocalNotifications": { "smallIcon": "ic_stat", "iconColor": "#F7AD1D" }
+  }
+}
